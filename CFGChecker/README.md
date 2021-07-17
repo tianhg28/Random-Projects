@@ -1,0 +1,1 @@
+Program prompts user to enter a Context-Free Grammer (CFG) and allows user the option to generate random strings from given language and the ability to verify whether a string belongs in the language. Inpsired from CSE 311 at the University of Washington.
