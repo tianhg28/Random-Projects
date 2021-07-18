@@ -1,0 +1,1 @@
+Program prompts the user for a series of letters, and then displays all possible words that can be created using a combination of the letters. Word displayed are organized based on number of letters and shown on a JFrame using Swing.
