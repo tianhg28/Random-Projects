@@ -1,1 +1,1 @@
-
+Matrix Calculator with following operations: Determinant, Gauss-Jordan, Transpose, Inverse, Power, Multiplcation, Addition, and Subtraction. Ability to customize the dimension of matrix(es) for calculation and buttons exisit for clearing matrices and filling matrices with 0 or random number. Made using Java Swing.
